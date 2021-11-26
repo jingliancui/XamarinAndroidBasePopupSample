@@ -3,7 +3,7 @@ Sample for showing BasePopup on Xamarin.Android
 
 Tutorial:
 
-
+https://mp.weixin.qq.com/s/t64WrmPl4grWsJsyCFTh3w
 
 QQ Group:
 
@@ -15,4 +15,4 @@ WeChat Official Account(微信公众号):
 
 Xamarin Library
 
-<img src="https://raw.githubusercontent.com/jingliancui/XamarinFormsMicrosoftAppCenterSample/master/Images/wechatqrcode.jpg"/>
+<img src="https://github.com/jingliancui/XamarinAndroidBasePopupSample/blob/main/Images/wechatqrcode.jpg?raw=true"/>
